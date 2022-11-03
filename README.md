@@ -1,3 +1,4 @@
 # git-demo
-this read.me file should be very important. This is very important.
-I enjoy doing git.
+this read.me file should be very important.
+I enjoy doing git and github.
+DevOps is fun
